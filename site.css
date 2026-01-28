@@ -9,7 +9,7 @@
 
         body {
             height: 100vh;
-            background: linear-gradient(135deg, #323247, #efeff7);
+            background: linear-gradient(135deg, #fff, #efeff7);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -56,3 +56,4 @@
                 font-size: 15px;
             }
         }
+
